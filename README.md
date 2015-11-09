@@ -1,6 +1,6 @@
 # metaweb-wiki: 
 
-**Note: this is a placeholder documentation site for a presently private repository being prepared for public management. It contains description and detailed source documentation in many sections, especially the section 'various examples from the e2e_spec' (89 end-to-end tests performance source and commentary)**  
+**Note: this is a placeholder documentation site for a presently private repository being prepared for public management. It contains description and detailed source documentation in many sections, especially the section 'various examples from the e2e_spec' (89 end-to-end tests performance - source and commentary) see the wiki link for further details**  
 
 * declarative media production and performance system using declarative composition animation and cinematography layering i3d-webGL, i2d-svg, html-css3d-video-audio, and heads-up hideable UI, and interactive cameras 
 
