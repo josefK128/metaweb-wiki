@@ -53,7 +53,7 @@ frames-per-second graphic, scenename, camerasphere wireframe, and the ui itself 
 
 * npm install (via package.json for development and server)
 
-* edit index.html 'base href' in head so that coorect html5 URL references can be made<br/>
+* edit index.html 'base href' in head so that correct html5 URL references can be made<br/>
 set href to the location of index.html in the cloned repo. <br/>
 for exp: <br/>
 ```
